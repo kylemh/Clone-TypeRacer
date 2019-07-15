@@ -4,7 +4,7 @@ class Sample extends Component {
   render() {
     return (
       <div>
-        
+        Yo
       </div>
     );
   }
